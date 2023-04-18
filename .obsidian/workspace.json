@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "0bd5f4710f6f8655",
+    "type": "split",
+    "children": [
+      {
+        "id": "d57d3a436aef4844",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c162ada9bd58ce44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A.Main/1work/目录.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffc7859c74810aba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d31e32207754ba75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6ca32d2060b168c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3ac07fa011d08fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4cd32d65115c64c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfcad473cde5fd6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b3bb9dc2214eb59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "862772658f0a8355",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A.Main/1work/目录.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a49437337ea14a26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A.Main/1work/目录.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a4356ed89051eb0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a1200b7742d7db5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A.Main/1work/目录.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c162ada9bd58ce44",
+  "lastOpenFiles": [
+    "B.Content/work/代码编译.md",
+    "A.Main/1work/目录.md",
+    "B.Content/work/代码下载.md",
+    "A.Main/2.study",
+    "A.Main/1work",
+    "A.Main/1work",
+    "B.Content/work",
+    "D.Resource/Pic/jeremy-bishop-2e3hgvDnCpM-unsplash.jpg",
+    "D.Resource/Pic",
+    "D.Resource",
+    "C.Template",
+    "B.Content",
+    "A.Main"
+  ]
+}
