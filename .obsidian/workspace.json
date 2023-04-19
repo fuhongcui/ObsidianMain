@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.Main/1work/目录.md",
+                "file": "B.Content/work/代码编译.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.Main/1work/目录.md",
+                "file": "B.Content/work/代码编译.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A.Main/1work/目录.md",
+                "file": "B.Content/work/代码编译.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.Main/1work/目录.md"
+                "file": "B.Content/work/代码编译.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c162ada9bd58ce44",
+  "active": "c6ca32d2060b168c",
   "lastOpenFiles": [
-    "B.Content/work/代码编译.md",
     "A.Main/1work/目录.md",
+    "B.Content/work/代码编译.md",
     "B.Content/work/代码下载.md",
     "A.Main/2.study",
     "A.Main/1work",
